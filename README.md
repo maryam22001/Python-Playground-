@@ -29,18 +29,6 @@ Welcome to my Python learning journey repository! This is where I document my pr
 - Document my learning process
 - Share knowledge and experiences
 
-## 📝 Progress Tracking
-
-### Currently Learning
-- Basic Python syntax
-- Print statements
-- Variables
-- Comments
-
-### Up Next
-- Data Types
-- Control Flow
-- Functions
 
 ## 🚀 Projects
 
